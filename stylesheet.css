@@ -15,6 +15,7 @@ a {
   width: 100%;
   padding: 0 15px;
   margin: 0 auto;
+  color: black;
 }
 
 .top-wrapper {
@@ -47,15 +48,6 @@ a {
 
 .signup {
   background-color: #239b76;
-}
-
-.facebook {
-  background-color: #3b5998;
-  margin-right: 10px;
-}
-
-.twitter {
-  background-color: #55acee;
 }
 
 .btn {
@@ -133,17 +125,6 @@ header {
 .lesson {
   float: left;
   width: 25%;
-}
-
-.lesson-icon {
-  position: relative;
-}
-
-.lesson-icon p {
-  position: absolute;
-  top: 37%;
-  width: 100%;
-  color: white;
 }
 
 .text-contents {
