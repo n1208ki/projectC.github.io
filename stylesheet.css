@@ -81,10 +81,6 @@ header {
   margin-top: 20px;
 }
 
-.header-left {
-  float: left;
-}
-
 .header-right {
   float: right;
   margin-right: -25px;
