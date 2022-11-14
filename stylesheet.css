@@ -48,7 +48,6 @@ a {
 
 .btn-wrapper {
   text-align: center;
-  width: 100px;
 }
 
 .btn-wrapper h2 {
@@ -65,12 +64,15 @@ a {
   background-color: #239b76;
   margin-bottom: 50px;
   width: auto;
+  text-align: center;
+  width: 100px;
 }
 
 .result {
   background-color: #239b76;
   margin-bottom: 50px;
   display:inline-block;
+  text-align: center;
 }
 
 .btn {
