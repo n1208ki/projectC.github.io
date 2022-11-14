@@ -63,6 +63,12 @@ a {
   margin-bottom: 50px;
 }
 
+.result {
+  background-color: #239b76;
+  margin-bottom: 50px;
+  display:inline-block;
+}
+
 .btn {
   padding: 8px 24px;
   color: white;
